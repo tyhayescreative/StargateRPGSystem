@@ -233,7 +233,7 @@ export default class ItemSg extends Item {
         if ( !( /*isTargetted ||*/ game.user.isGM || message.isAuthor ) ) return;
 
         // Recover the actor for the chat card
-        const actor = await this._getChatCardActor(card);
+        const  actor = game.actors.get(message['data']['speaker']['actor'])
         if ( !actor ) return;
 
         // Get the Item from stored flag data or by the item ID on the Actor
