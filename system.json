@@ -4,9 +4,9 @@
     "description": "System for Stargate RPG created by Wyvern Gaming, https://stargatetherpg.com/",
     "version": "1.6.2-beta",
     "templateVersion": 2,
-    "author": "Filip Sádovský + Ty Hayes",
-    "minimumCoreVersion": "0.8.6",
-    "compatibleCoreVersion": "0.8.9",
+    "author": "Filip Sádovský (+ Ty Hayes)",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
     "scripts": [
     ],
     "esmodules": [
