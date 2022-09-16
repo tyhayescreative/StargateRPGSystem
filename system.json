@@ -28,6 +28,6 @@
     "secondaryTokenAttribute": null,
     "url": "https://github.com/tyhayescreative/StargateRPGSystem",
     "manifest": "https://raw.githubusercontent.com/tyhayescreative/StargateRPGSystem/master/system.json",
-    "download": "https://github.com/tyhayescreative/StargateRPGSystem/releases/download/v1.6.1-beta/sgrpg.zip"
+    "download": "https://github.com/tyhayescreative/StargateRPGSystem/archive/refs/tags/v1.6.2-beta.zip"
 }
 
